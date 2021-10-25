@@ -3,3 +3,8 @@ Pengenalan GitHub..
 Sistem Operasi Praktik
 
 materi basic
+- python
+- linux
+- design
+- web
+- app mobile
