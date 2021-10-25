@@ -15,3 +15,7 @@ software editor text
 - visual basic
 - pycharm
 - matlab
+- vscode
+- sublime
+- atom
+
