@@ -10,3 +10,8 @@ materi basic
 - kemanan jaringan
 - UI/UX
 - cmd
+
+software editor text
+- vscode
+- sublime
+- atom
