@@ -8,3 +8,5 @@ materi basic
 - design
 - web
 - app mobile
+- kemanan jaringan
+- UI/UX
